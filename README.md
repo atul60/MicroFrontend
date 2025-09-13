@@ -75,6 +75,3 @@ mfe2/
 - `mfe1/src/App.js`: Imports and renders the remote Cart Application.
 - `mfe2/src/App.js`: Simple Cart Application UI.
 
-## License
-
-This project is licensed under the ISC License.
